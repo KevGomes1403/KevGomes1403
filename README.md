@@ -1,4 +1,4 @@
-## Hi there 👋
+## i'm kevin!
 
 <!--
 **KevGomes1403/KevGomes1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on performance optimizations for Mixture-of-Experts model inference on AWS Trainium 2/3. I'm particularly interested in enabling agents to write high performance kernels and raising the attainable performance ceiling of accelerators.
+
+I did my undergrad in EECS at Berkeley and I'm now doing a Master's in ECE at Cornell.
+
+connect: [linkedin](https://www.linkedin.com/in/kevgomes/)
